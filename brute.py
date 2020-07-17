@@ -29,8 +29,8 @@ GHT = '''
 +---------------------------------------+
 '''
 print ("Note: - This tool can crack facebook account even if you don't have the email of your victim")
-print "# Hit CTRL+C to quit the program"
-print "# Use www.graph.facebook.com for more infos about your victim ^_^"
+print ("# Hit CTRL+C to quit the program")
+print ("# Use www.graph.facebook.com for more infos about your victim ^_^")
 
 
 email = str(raw_input("# Enter |Email| |Phone number| |Profile ID number| |Username| : "))
